@@ -1,0 +1,15 @@
+body {
+    background-color: #282c34;
+    color: white;
+    font-family: "system-ui";
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
