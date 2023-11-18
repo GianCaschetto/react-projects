@@ -1,0 +1,23 @@
+.identity {
+  
+    border: 1px solid black;
+    color: black;
+    position: fixed;
+    left: 16px;
+    bottom: 16px;
+    text-align: left;
+    padding: 8px 24px;
+    border-radius: 32px;
+    opacity: .95;
+}
+  
+.identity span {
+    font-size: 14px;
+    color: #09f;
+    opacity: .8;
+}
+  
+.identity h4 {
+    margin: 0;
+    display: flex;
+}
